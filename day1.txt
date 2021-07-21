@@ -1,1 +1,4 @@
 B23 learning git
+
+We jut made our first commit
+YAY!!
