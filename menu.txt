@@ -1,5 +1,5 @@
-Coffee 2.99  150cal
-Donats 3.99  1500cal
+Coffee 2.99  150 cal
+Donats 3.99  1500 cal
 
 Mocha      3.15 200 cal
 expresso   3.25 250 cal
