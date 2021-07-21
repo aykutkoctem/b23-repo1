@@ -2,3 +2,6 @@ B23 learning git
 
 We jut made our first commit
 YAY!!
+
+Git keep track of changes
+from the last point you made commit until the current change you make you can change
